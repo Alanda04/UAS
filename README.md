@@ -1,4 +1,6 @@
 # UAS
+dokumentasi aplikasi:
+https://youtu.be/B0CZPuvXXxE
 
 ini adalah tampilan screenshot aplikasi kas
 ![pengeluaran](https://user-images.githubusercontent.com/52759649/126386478-0c7804b6-3c7b-4ca4-b6ad-5f48512cf046.jpg)
